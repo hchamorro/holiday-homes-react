@@ -4,7 +4,9 @@ import Gmap from '../components/Gmap';
 function Home() {
   return (
     <>
-      <Gmap></Gmap>
+      <div className="d-f jc-c">
+        <Gmap></Gmap>
+      </div>
     </>
   );
 }
