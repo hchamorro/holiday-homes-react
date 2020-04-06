@@ -14,7 +14,7 @@ function Gmap(props) {
         google={props.google}
         zoom={8}
         style={mapStyles}
-        initialCenter={{ lat: 47.444, lng: -122.176 }}
+        initialCenter={{ lat: 41.881832, lng: -87.623177 }}
       />
     </>
   );
